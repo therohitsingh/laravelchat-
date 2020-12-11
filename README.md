@@ -11,3 +11,5 @@
 5. Notification icon with Number of Message came from Authenticated User
 6. Regular Update
 
+<h3> Uploaded on Cloud Server based on PAAS Called Heroku </h3>
+http://laravelchatapp.herokuapp.com/
