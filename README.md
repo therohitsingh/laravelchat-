@@ -1,2 +1,2 @@
-<html><strong>LARAVEL CHAT APP</strong>
+<html><strong><h1>LARAVEL CHAT APP</h1></strong>
     
