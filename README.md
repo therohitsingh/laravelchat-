@@ -13,10 +13,10 @@
 
 <h3> Uploaded on  Server based Try it </h3>
 <ul> <strong> Steps </strong>
-    <li>1.Login/Register urself in</li>
-    <li>2.Try watching different user and message them </li>
+    <li>Login/Register urself in</li>
+    <li>Try watching different user and message them </li>
     
-    </ul>
+  
     
    <h2> Working URL </h2>
    http://chatwithlaravel.ml/
