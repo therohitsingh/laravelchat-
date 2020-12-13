@@ -19,5 +19,5 @@
   
     
    <h2> Working URL </h2>
-   http://chatwithlaravel.ml/
+   https://chatwithlaravel.ml/
 
